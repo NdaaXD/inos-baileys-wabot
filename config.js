@@ -1,4 +1,4 @@
-global.owner = ["123@s.whatsapp.net"]
+global.owner = ["6288220118685@s.whatsapp.net"]
 global.multiPrefix = false
 global.autoRead = true
 
